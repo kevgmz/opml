@@ -1,128 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
-<opml version="2.0">
-  <head>
-    <title>Podcast subscriptions directory</title>
-  </head>
-  <body>
-    <outline text="Technology"/>
-    <outline type="rss" text="2.5 Admins" title="2.5 Admins" xmlUrl="https://2.5admins.com/feed/podcast"/>
-    <outline type="rss" text="404 Security Not Found" title="404 Security Not Found" xmlUrl="https://anchor.fm/s/c754aaac/podcast/rss"/>
-    <outline type="rss" text="Accidental Tech" title="Accidental Tech" xmlUrl="https://atp.fm/episodes?format=rss"/>
-    <outline type="rss" text="Admin Admin Podcast" title="Admin Admin Podcast" xmlUrl="https://feeds.feedburner.com/TheAdminAdminPodcast"/>
-    <outline type="rss" text="Android Bytes (Esper)" title="Android Bytes (Esper)" xmlUrl="https://feeds.captivate.fm/android-bytes-by-esper/"/>
-    <outline type="rss" text="Ask Noah Show" title="Ask Noah Show" xmlUrl="https://feeds.fireside.fm/asknoah/rss"/>
-    <outline type="rss" text="Ask The Hosts" title="Ask The Hosts" xmlUrl="https://askthehosts.com/feed/podcast/"/>
-    <outline type="rss" text="Astro Pro" title="Astro Pro" xmlUrl="https://api.riverside.fm/hosting/QdnV1tx7.rss"/>
-    <outline type="rss" text="Bad Voltage" title="Bad Voltage" xmlUrl="https://badvoltage.org/feed/mp3/"/>
-    <outline type="rss" text="Beers with Talos Podcast" title="Beers with Talos Podcast" xmlUrl="https://rss.buzzsprout.com/2033817.rss"/>
-    <outline type="rss" text="Better Offline" title="Better Offline" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c25ad-cf01-4da5-ae1c-b0fc015f790e/53ed270b-7147-4f70-81c2-b0fc015fe4ed/podcast.rss"/>
-    <outline type="rss" text="Caveat" title="Caveat" xmlUrl="https://feeds.megaphone.fm/caveat"/>
-    <outline type="rss" text="Check Point Research" title="Check Point Research" xmlUrl="https://rss.buzzsprout.com/1474780.rss"/>
-    <outline type="rss" text="Choose Linux" title="Choose Linux" xmlUrl="https://chooselinux.show/rss"/>
-    <outline type="rss" text="Closed Network Privacy Podcast" title="Closed Network Privacy Podcast" xmlUrl="https://feeds.yellowball.fm/qbqowz"/>
-    <outline type="rss" text="CoalCast" title="CoalCast" xmlUrl="https://rss.libsyn.com/shows/157031/destinations/1025219.xml"/>
-    <outline type="rss" text="Coder Radio" title="Coder Radio" xmlUrl="https://coder.show/rss"/>
-    <outline type="rss" text="Critical Thinking - Bug Bounty" title="Critical Thinking - Bug Bounty" xmlUrl="https://feeds.cohostpodcasting.com/y3zHW5ae"/>
-    <outline type="rss" text="CYBER" title="CYBER" xmlUrl="https://feeds.acast.com/public/shows/6dab3ca4-41f5-4fd4-bba6-224ab53f5113"/>
-    <outline type="rss" text="Cyber Security Sauna" title="Cyber Security Sauna" xmlUrl="https://rss.libsyn.com/shows/110627/destinations/607855.xml"/>
-    <outline type="rss" text="Cybercrime Investigations" title="Cybercrime Investigations" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:49285879/sounds.rss"/>
-    <outline type="rss" text="Darknet Diaries" title="Darknet Diaries" xmlUrl="https://podcast.darknetdiaries.com"/>
-    <outline type="rss" text="Dave &amp; Gunnar Show" title="Dave &amp; Gunnar Show" xmlUrl="https://feeds.fireside.fm/dgshow/rss"/>
-    <outline type="rss" text="Day[0]" title="Day[0]" xmlUrl="https://anchor.fm/s/a121a24/podcast/rss"/>
-    <outline type="rss" text="Defense in Depth" title="Defense in Depth" xmlUrl="https://rss.libsyn.com/shows/156524/destinations/1020683.xml"/>
-    <outline type="rss" text="Defensive Security" title="Defensive Security" xmlUrl="https://defensivesecurity.org/feed/podcast/"/>
-    <outline type="rss" text="Destination Linux" title="Destination Linux" xmlUrl="https://feeds.fireside.fm/destinationlinux/rss"/>
-    <outline type="rss" text="Down the Security Rabbithole Podcast" title="Down the Security Rabbithole Podcast" xmlUrl="https://rss.buzzsprout.com/2153215.rss"/>
-    <outline type="rss" text="Fedora Project" title="Fedora Project" xmlUrl="https://fedoramagazine.org/feed/"/>
-    <outline type="rss" text="Firewalls Don't Stop Dragons" title="Firewalls Don't Stop Dragons" xmlUrl="https://podcast.firewallsdontstopdragons.com/feed/podcast/"/>
-    <outline type="rss" text="Geek Speak with Lyle Troxell" title="Geek Speak with Lyle Troxell" xmlUrl="https://geekspeak.org/episodes/rss.xml"/>
-    <outline type="rss" text="GeekWire" title="GeekWire" xmlUrl="https://feeds.geekwire.com/geekwire"/>
-    <outline type="rss" text="Grumpy Old Geeks" title="Grumpy Old Geeks" xmlUrl="https://rss.art19.com/grumpy-old-geeks-podcast"/>
-    <outline type="rss" text="Hacked" title="Hacked" xmlUrl="https://feeds.megaphone.fm/hackedpodcast"/>
-    <outline type="rss" text="Hacker Public Radio" title="Hacker Public Radio" xmlUrl="https://hackerpublicradio.org/hpr_rss.php"/>
-    <outline type="rss" text="Hacking Humans" title="Hacking Humans" xmlUrl="https://rss.pdrl.fm/7d51b0/feeds.megaphone.fm/hacking-humans"/>
-    <outline type="rss" text="Heavy Networking from Packet Pushers" title="Heavy Networking from Packet Pushers" xmlUrl="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast"/>
-    <outline type="rss" text="Humans" title="Humans" xmlUrl="https://rss.art19.com/humans"/>
-    <outline type="rss" text="Hybrid Cloud Show" title="Hybrid Cloud Show" xmlUrl="https://hybridcloudshow.com/feed/podcast"/>
-    <outline type="rss" text="Jupiter Extras" title="Jupiter Extras" xmlUrl="https://extras.show/rss"/>
-    <outline type="rss" text="Layer 8 Podcast" title="Layer 8 Podcast" xmlUrl="https://anchor.fm/s/1210f5d8/podcast/rss"/>
-    <outline type="rss" text="Linux Action News" title="Linux Action News" xmlUrl="https://linuxactionnews.com/rss"/>
-    <outline type="rss" text="Linux After Dark" title="Linux After Dark" xmlUrl="https://linuxafterdark.net/feed/podcast"/>
-    <outline type="rss" text="Linux Matters" title="Linux Matters" xmlUrl="https://linuxmatters.sh/episode/index.xml"/>
-    <outline type="rss" text="LINUX Unplugged" title="LINUX Unplugged" xmlUrl="https://feeds.jupiterbroadcasting.com/lup"/>
-    <outline type="rss" text="Malicious Life" title="Malicious Life" xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f"/>
-    <outline type="rss" text="MintCast" title="MintCast" xmlUrl="https://mintcast.org/feed/"/>
-    <outline type="rss" text="Open Source Security Podcast" title="Open Source Security Podcast" xmlUrl="https://rss.libsyn.com/shows/102309/destinations/542864.xml"/>
-    <outline type="rss" text="Opt Out" title="Opt Out" xmlUrl="https://rss.buzzsprout.com/1790481.rss"/>
-    <outline type="rss" text="OSINT" title="OSINT" xmlUrl="https://media.rss.com/osint/feed.xml"/>
-    <outline type="rss" text="Privacy Mentor with Carrie Kerskie" title="Privacy Mentor with Carrie Kerskie" xmlUrl="https://rss.libsyn.com/shows/286130/destinations/2201729.xml"/>
-    <outline type="rss" text="Risky Business" title="Risky Business" xmlUrl="https://risky.biz/feeds/risky-business/"/>
-    <outline type="rss" text="Safing - Portmaster" title="Safing - Portmaster" xmlUrl="https://safing.io/podcast.xml"/>
-    <outline type="rss" text="Self-Hosted" title="Self-Hosted" xmlUrl="https://selfhosted.show/rss"/>
-    <outline type="rss" text="The Aboard Podcast" title="The Aboard Podcast" xmlUrl="https://anchor.fm/s/1040d8964/podcast/rss"/>
-    <outline type="rss" text="The Homelab Show" title="The Homelab Show" xmlUrl="https://thehomelab.show/feed/podcast"/>
-    <outline text="Education"/>
-    <outline type="rss" text="7 Minute Spanish" title="7 Minute Spanish" xmlUrl="https://feeds.feedburner.com/oneminutespanish"/>
-    <outline type="rss" text="80,000 Hours" title="80,000 Hours" xmlUrl="https://feeds.transistor.fm/the-80-000-hours-career-guide"/>
-    <outline type="rss" text="99% Invisible" title="99% Invisible" xmlUrl="https://feeds.simplecast.com/BqbsxVfO"/>
-    <outline type="rss" text="Are We Doomed?" title="Are We Doomed?" xmlUrl="https://publicfeeds.net/f/16857/are-we-doomed"/>
-    <outline type="rss" text="Lateral with Tom Scott" title="Lateral with Tom Scott" xmlUrl="https://feeds.megaphone.fm/lateralcast"/>
-    <outline type="rss" text="Maintenance Phase" title="Maintenance Phase" xmlUrl="https://rss.buzzsprout.com/1411126.rss"/>
-    <outline type="rss" text="Practical Engineering" title="Practical Engineering" xmlUrl="https://anchor.fm/s/fd3cd4dc/podcast/rss"/>
-    <outline type="rss" text="Science in Action" title="Science in Action" xmlUrl="https://podcasts.files.bbci.co.uk/p002vsnb.rss"/>
-    <outline type="rss" text="Skeptoid" title="Skeptoid" xmlUrl="https://feed.skeptoid.com"/>
-    <outline type="rss" text="The School of Greatness" title="The School of Greatness" xmlUrl="https://feeds.simplecast.com/AAvup9Zz"/>
-    <outline text="News"/>
-    <outline type="rss" text="Ars Technicast" title="Ars Technicast" xmlUrl="https://publicfeeds.net/f/7487/ars-technicast"/>
-    <outline type="rss" text="Click Here" title="Click Here" xmlUrl="https://publicfeeds.net/f/8376/clickhere"/>
-    <outline type="rss" text="Hard Fork" title="Hard Fork" xmlUrl="https://feeds.simplecast.com/6HKOhNgS"/>
-    <outline type="rss" text="If Books Could Kill" title="If Books Could Kill" xmlUrl="https://rss.buzzsprout.com/2040953.rss"/>
-    <outline type="rss" text="kill switch" title="kill switch" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6e0008d8-6226-4a07-8232-ae2e01547189/e3ded945-4db8-41cd-aeda-ae2e01547197/podcast.rss"/>
-    <outline type="rss" text="Last Week Tonight" title="Last Week Tonight" xmlUrl="https://pod.spinda.net/private-server--unauthorized-access-is-forbidden/lastweek.xml"/>
-    <outline type="rss" text="Pod Save America" title="Pod Save America" xmlUrl="https://audioboom.com/channels/5166624.rss"/>
-    <outline text="True Crime"/>
-    <outline type="rss" text="13th Juror Podcast" title="13th Juror Podcast" xmlUrl="https://feeds.simplecast.com/nPAUfECM"/>
-    <outline type="rss" text="Anatomy of Murder" title="Anatomy of Murder" xmlUrl="https://feeds.simplecast.com/GdzgJRQH"/>
-    <outline type="rss" text="Armored" title="Armored" xmlUrl="https://feeds.simplecast.com/1AmhqQ4_"/>
-    <outline type="rss" text="Casefile True Crime" title="Casefile True Crime" xmlUrl="https://feeds.acast.com/public/shows/679acff465f74095106abfaa"/>
-    <outline type="rss" text="CounterClock" title="CounterClock" xmlUrl="https://feeds.simplecast.com/MTPwrbcY"/>
-    <outline type="rss" text="Crime Junkie" title="Crime Junkie" xmlUrl="https://feeds.simplecast.com/qm_9xx0g"/>
-    <outline type="rss" text="Criminal" title="Criminal" xmlUrl="https://feeds.feedburner.com/criminalshow/"/>
-    <outline type="rss" text="Dark Arenas" title="Dark Arenas" xmlUrl="https://feeds.simplecast.com/654kY38X"/>
-    <outline type="rss" text="Dark Downeast" title="Dark Downeast" xmlUrl="https://feeds.simplecast.com/LqfhW4oK"/>
-    <outline type="rss" text="Full Body Chills" title="Full Body Chills" xmlUrl="https://feeds.simplecast.com/6E74sk6q"/>
-    <outline type="rss" text="Medical Murders" title="Medical Murders" xmlUrl="https://feeds.megaphone.fm/medicalmurders"/>
-    <outline type="rss" text="MrBallen Podcast: Strange, Dark &amp; Mysterious Stories" title="MrBallen Podcast: Strange, Dark &amp; Mysterious Stories" xmlUrl="https://feeds.simplecast.com/dloY8UYJ"/>
-    <outline type="rss" text="MrBallen's Medical Mysteries" title="MrBallen's Medical Mysteries" xmlUrl="https://rss.art19.com/mrballens-medical-mysteries"/>
-    <outline type="rss" text="My Favorite Murder with Karen Kilgariff and Georgia Hardstark" title="My Favorite Murder with Karen Kilgariff and Georgia Hardstark" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss"/>
-    <outline type="rss" text="Paper Trail" title="Paper Trail" xmlUrl="https://publicfeeds.net/f/16890/feed-rss.xml"/>
-    <outline type="rss" text="Serial" title="Serial" xmlUrl="https://feeds.simplecast.com/xl36XBC2"/>
-    <outline type="rss" text="The Deck" title="The Deck" xmlUrl="https://feeds.simplecast.com/ZH32N6UM"/>
-    <outline type="rss" text="True Spies" title="True Spies" xmlUrl="https://feeds.megaphone.fm/truespies"/>
-    <outline type="rss" text="What to Carry, What to Burn" title="What to Carry, What to Burn" xmlUrl="https://feeds.acast.com/public/shows/69f8b83e3a143563ed7c9014"/>
-    <outline text="Fiction"/>
-    <outline type="rss" text="25 Years of Vampire: The Masquerade" title="25 Years of Vampire: The Masquerade" xmlUrl="https://rss.buzzsprout.com/1171889.rss"/>
-    <outline type="rss" text="Behind the Bastards" title="Behind the Bastards" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss"/>
-    <outline type="rss" text="Canada by Night a Vampire the Masquerade Podcast" title="Canada by Night a Vampire the Masquerade Podcast" xmlUrl="https://feeds.megaphone.fm/GLSS6699431899"/>
-    <outline type="rss" text="Drowning Creek" title="Drowning Creek" xmlUrl="https://podcastaddict.com/podcast/drowning-creek/5171362"/>
-    <outline type="rss" text="Lore" title="Lore" xmlUrl="https://feeds.libsyn.com/65267/rss"/>
-    <outline type="rss" text="Nothing much happens: bedtime stories to help you sleep" title="Nothing much happens: bedtime stories to help you sleep" xmlUrl="https://omny.fm/shows/nothing-much-happens-bedtime-stories/playlists/podcast.rss"/>
-    <outline type="rss" text="The Magnus Archives" title="The Magnus Archives" xmlUrl="https://feeds.acast.com/public/shows/b6085bcd-3542-4a43-b6a8-021e3fd251b8"/>
-    <outline text="Society &amp; Culture"/>
-    <outline type="rss" text="Are We Doomed?" title="Are We Doomed?" xmlUrl="https://publicfeeds.net/f/16857/are-we-doomed"/>
-    <outline type="rss" text="Funny Cuz It's True with Elyse Myers" title="Funny Cuz It's True with Elyse Myers" xmlUrl="https://feeds.megaphone.fm/LEME5757130197"/>
-    <outline type="rss" text="If Books Could Kill" title="If Books Could Kill" xmlUrl="https://rss.buzzsprout.com/2040953.rss"/>
-    <outline type="rss" text="Kurzgesagt – In a Nutshell" title="Kurzgesagt – In a Nutshell" xmlUrl="https://ffrancis-podtube-bucket.s3.us-east-2.amazonaws.com/UCsXVk37bltHxD1rDPwtNM8Q/UCsXVk37bltHxD1rDPwtNM8Q.xml"/>
-    <outline type="rss" text="Lateral with Tom Scott" title="Lateral with Tom Scott" xmlUrl="https://feeds.megaphone.fm/lateralcast"/>
-    <outline type="rss" text="OnlyFantasy" title="OnlyFantasy" xmlUrl="https://rss.art19.com/think-twice-michael-jackson"/>
-    <outline type="rss" text="This American Life" title="This American Life" xmlUrl="https://www.thisamericanlife.org/podcast/rss.xml"/>
-    <outline type="rss" text="TV Is Good" title="TV Is Good" xmlUrl="https://www.whatsalanwatching.com/r/dac8fcb1?m=b8b5878e-684e-469a-bbf5-b40d87ca2ab5"/>
-    <outline type="rss" text="What to Carry, What to Burn" title="What to Carry, What to Burn" xmlUrl="https://feeds.acast.com/public/shows/69f8b83e3a143563ed7c9014"/>
-    <outline text="Health &amp; Fitness"/>
-    <outline type="rss" text="Boring Books for Bedtime Readings to Help You Sleep" title="Boring Books for Bedtime Readings to Help You Sleep" xmlUrl="https://boringbooksforbedtime.libsyn.com/rss"/>
-    <outline type="rss" text="Maintenance Phase" title="Maintenance Phase" xmlUrl="https://rss.buzzsprout.com/1411126.rss"/>
-    <outline type="rss" text="Nothing much happens: bedtime stories to help you sleep" title="Nothing much happens: bedtime stories to help you sleep" xmlUrl="https://omny.fm/shows/nothing-much-happens-bedtime-stories/playlists/podcast.rss"/>
-    <outline type="rss" text="The School of Greatness" title="The School of Greatness" xmlUrl="https://feeds.simplecast.com/AAvup9Zz"/>
-    <outline type="rss" text="Your World Within Podcast by Eddie Pinero" title="Your World Within Podcast by Eddie Pinero" xmlUrl="https://anchor.fm/s/100d997ec/podcast/rss"/>
-  </body>
-</opml>
+ <opml version="1.0">
+   <head>
+     <text/>
+   </head>
+   <body>
+     <outline text="Technology">
+       <outline xmlUrl="https://2.5admins.com/feed/podcast" text="2.5 Admins"/>
+       <outline xmlUrl="https://anchor.fm/s/c754aaac/podcast/rss" text="404 Security Not Found"/>
+       <outline xmlUrl="https://atp.fm/episodes?format=rss" text="Accidental Tech"/>
+       <outline xmlUrl="https://feeds.feedburner.com/TheAdminAdminPodcast" text="Admin Admin Podcast"/>
+       <outline xmlUrl="https://feeds.captivate.fm/android-bytes-by-esper/" text="Android Bytes (Esper)"/>
+       <outline xmlUrl="https://feeds.fireside.fm/asknoah/rss" text="Ask Noah Show"/>
+       <outline xmlUrl="https://askthehosts.com/feed/podcast/" text="Ask The Hosts"/>
+       <outline xmlUrl="https://api.riverside.fm/hosting/QdnV1tx7.rss" text="Astro Pro"/>
+       <outline xmlUrl="https://badvoltage.org/feed/mp3/" text="Bad Voltage"/>
+       <outline xmlUrl="https://rss.buzzsprout.com/2033817.rss" text="Beers with Talos Podcast"/>
+       <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c25ad-cf01-4da5-ae1c-b0fc015f790e/53ed270b-7147-4f70-81c2-b0fc015fe4ed/podcast.rss" text="Better Offline"/>
+       <outline xmlUrl="https://feeds.megaphone.fm/caveat" text="Caveat"/>
+       <outline xmlUrl="https://rss.buzzsprout.com/1474780.rss" text="Check Point Research"/>
+       <outline xmlUrl="https://chooselinux.show/rss" text="Choose Linux"/>
+       <outline xmlUrl="https://feeds.yellowball.fm/qbqowz" text="Closed Network Privacy Podcast"/>
+       <outline xmlUrl="https://rss.libsyn.com/shows/157031/destinations/1025219.xml" text="CoalCast"/>
+       <outline xmlUrl="https://coder.show/rss" text="Coder Radio"/>
+       <outline xmlUrl="https://feeds.cohostpodcasting.com/y3zHW5ae" text="Critical Thinking - Bug Bounty"/>
+       <outline xmlUrl="https://feeds.acast.com/public/shows/6dab3ca4-41f5-4fd4-bba6-224ab53f5113" text="CYBER"/>
+       <outline xmlUrl="https://rss.libsyn.com/shows/110627/destinations/607855.xml" text="Cyber Security Sauna"/>
+       <outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:49285879/sounds.rss" text="Cybercrime Investigations"/>
+       <outline xmlUrl="https://podcast.darknetdiaries.com" text="Darknet Diaries"/>
+       <outline xmlUrl="https://feeds.fireside.fm/dgshow/rss" text="Dave &amp; Gunnar Show"/>
+       <outline xmlUrl="https://anchor.fm/s/a121a24/podcast/rss" text="Day[0]"/>
+       <outline xmlUrl="https://rss.libsyn.com/shows/156524/destinations/1020683.xml" text="Defense in Depth"/>
+       <outline xmlUrl="https://defensivesecurity.org/feed/podcast/" text="Defensive Security"/>
+       <outline xmlUrl="https://feeds.fireside.fm/destinationlinux/rss" text="Destination Linux"/>
+       <outline xmlUrl="https://rss.buzzsprout.com/2153215.rss" text="Down the Security Rabbithole Podcast"/>
+       <outline xmlUrl="https://fedoramagazine.org/feed/" text="Fedora Project"/>
+       <outline xmlUrl="https://podcast.firewallsdontstopdragons.com/feed/podcast/" text="Firewalls Don't Stop Dragons"/>
+       <outline xmlUrl="https://geekspeak.org/episodes/rss.xml" text="Geek Speak with Lyle Troxell"/>
+       <outline xmlUrl="https://feeds.geekwire.com/geekwire" text="GeekWire"/>
+       <outline xmlUrl="https://rss.art19.com/grumpy-old-geeks-podcast" text="Grumpy Old Geeks"/>
+       <outline xmlUrl="https://feeds.megaphone.fm/hackedpodcast" text="Hacked"/>
+       <outline xmlUrl="https://hackerpublicradio.org/hpr_rss.php" text="Hacker Public Radio"/>
+       <outline xmlUrl="https://rss.pdrl.fm/7d51b0/feeds.megaphone.fm/hacking-humans" text="Hacking Humans"/>
+       <outline xmlUrl="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast" text="Heavy Networking from Packet Pushers"/>
+       <outline xmlUrl="https://rss.art19.com/humans" text="Humans"/>
+       <outline xmlUrl="https://hybridcloudshow.com/feed/podcast" text="Hybrid Cloud Show"/>
+       <outline xmlUrl="https://extras.show/rss" text="Jupiter Extras"/>
+       <outline xmlUrl="https://anchor.fm/s/1210f5d8/podcast/rss" text="Layer 8 Podcast"/>
+       <outline xmlUrl="https://linuxactionnews.com/rss" text="Linux Action News"/>
+       <outline xmlUrl="https://linuxafterdark.net/feed/podcast" text="Linux After Dark"/>
+       <outline xmlUrl="https://linuxmatters.sh/episode/index.xml" text="Linux Matters"/>
+       <outline xmlUrl="https://feeds.jupiterbroadcasting.com/lup" text="LINUX Unplugged"/>
+       <outline xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f" text="Malicious Life"/>
+       <outline xmlUrl="https://mintcast.org/feed/" text="MintCast"/>
+       <outline xmlUrl="https://rss.libsyn.com/shows/102309/destinations/542864.xml" text="Open Source Security Podcast"/>
+       <outline xmlUrl="https://rss.buzzsprout.com/1790481.rss" text="Opt Out"/>
+       <outline xmlUrl="https://media.rss.com/osint/feed.xml" text="OSINT"/>
+       <outline xmlUrl="https://rss.libsyn.com/shows/286130/destinations/2201729.xml" text="Privacy Mentor with Carrie Kerskie"/>
+       <outline xmlUrl="https://risky.biz/feeds/risky-business/" text="Risky Business"/>
+       <outline xmlUrl="https://safing.io/podcast.xml" text="Safing - Portmaster"/>
+       <outline xmlUrl="https://selfhosted.show/rss" text="Self-Hosted"/>
+       <outline xmlUrl="https://anchor.fm/s/1040d8964/podcast/rss" text="The Aboard Podcast"/>
+       <outline xmlUrl="https://thehomelab.show/feed/podcast" text="The Homelab Show"/>
+     </outline>
+     <outline text="Education">
+       <outline xmlUrl="https://feeds.feedburner.com/oneminutespanish" text="7 Minute Spanish"/>
+       <outline xmlUrl="https://feeds.transistor.fm/the-80-000-hours-career-guide" text="80,000 Hours"/>
+       <outline xmlUrl="https://feeds.simplecast.com/BqbsxVfO" text="99% Invisible"/>
+       <outline xmlUrl="https://publicfeeds.net/f/16857/are-we-doomed" text="Are We Doomed?"/>
+       <outline xmlUrl="https://feeds.megaphone.fm/lateralcast" text="Lateral with Tom Scott"/>
+       <outline xmlUrl="https://rss.buzzsprout.com/1411126.rss" text="Maintenance Phase"/>
+       <outline xmlUrl="https://anchor.fm/s/fd3cd4dc/podcast/rss" text="Practical Engineering"/>
+       <outline xmlUrl="https://podcasts.files.bbci.co.uk/p002vsnb.rss" text="Science in Action"/>
+       <outline xmlUrl="https://feed.skeptoid.com" text="Skeptoid"/>
+       <outline xmlUrl="https://feeds.simplecast.com/AAvup9Zz" text="The School of Greatness"/>
+     </outline>
+     <outline text="News">
+       <outline xmlUrl="https://publicfeeds.net/f/7487/ars-technicast" text="Ars Technicast"/>
+       <outline xmlUrl="https://publicfeeds.net/f/8376/clickhere" text="Click Here"/>
+       <outline xmlUrl="https://feeds.simplecast.com/6HKOhNgS" text="Hard Fork"/>
+       <outline xmlUrl="https://rss.buzzsprout.com/2040953.rss" text="If Books Could Kill"/>
+       <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6e0008d8-6226-4a07-8232-ae2e01547189/e3ded945-4db8-41cd-aeda-ae2e01547197/podcast.rss" text="kill switch"/>
+       <outline xmlUrl="https://pod.spinda.net/private-server--unauthorized-access-is-forbidden/lastweek.xml" text="Last Week Tonight"/>
+       <outline xmlUrl="https://audioboom.com/channels/5166624.rss" text="Pod Save America"/>
+     </outline>
+     <outline text="True Crime">
+       <outline xmlUrl="https://feeds.simplecast.com/nPAUfECM" text="13th Juror Podcast"/>
+       <outline xmlUrl="https://feeds.simplecast.com/GdzgJRQH" text="Anatomy of Murder"/>
+       <outline xmlUrl="https://feeds.simplecast.com/1AmhqQ4_" text="Armored"/>
+       <outline xmlUrl="https://feeds.acast.com/public/shows/679acff465f74095106abfaa" text="Casefile True Crime"/>
+       <outline xmlUrl="https://feeds.simplecast.com/MTPwrbcY" text="CounterClock"/>
+       <outline xmlUrl="https://feeds.simplecast.com/qm_9xx0g" text="Crime Junkie"/>
+       <outline xmlUrl="https://feeds.feedburner.com/criminalshow/" text="Criminal"/>
+       <outline xmlUrl="https://feeds.simplecast.com/654kY38X" text="Dark Arenas"/>
+       <outline xmlUrl="https://feeds.simplecast.com/LqfhW4oK" text="Dark Downeast"/>
+       <outline xmlUrl="https://feeds.simplecast.com/6E74sk6q" text="Full Body Chills"/>
+       <outline xmlUrl="https://feeds.megaphone.fm/medicalmurders" text="Medical Murders"/>
+       <outline xmlUrl="https://feeds.simplecast.com/dloY8UYJ" text="MrBallen Podcast: Strange, Dark &amp; Mysterious Stories"/>
+       <outline xmlUrl="https://rss.art19.com/mrballens-medical-mysteries" text="MrBallen's Medical Mysteries"/>
+       <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss" text="My Favorite Murder with Karen Kilgariff and Georgia Hardstark"/>
+       <outline xmlUrl="https://publicfeeds.net/f/16890/feed-rss.xml" text="Paper Trail"/>
+       <outline xmlUrl="https://feeds.simplecast.com/xl36XBC2" text="Serial"/>
+       <outline xmlUrl="https://feeds.simplecast.com/ZH32N6UM" text="The Deck"/>
+       <outline xmlUrl="https://feeds.megaphone.fm/truespies" text="True Spies"/>
+       <outline xmlUrl="https://feeds.acast.com/public/shows/69f8b83e3a143563ed7c9014" text="What to Carry, What to Burn"/>
+     </outline>
+     <outline text="Fiction">
+       <outline xmlUrl="https://rss.buzzsprout.com/1171889.rss" text="25 Years of Vampire: The Masquerade"/>
+       <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss" text="Behind the Bastards"/>
+       <outline xmlUrl="https://feeds.megaphone.fm/GLSS6699431899" text="Canada by Night a Vampire the Masquerade Podcast"/>
+       <outline xmlUrl="https://podcastaddict.com/podcast/drowning-creek/5171362" text="Drowning Creek"/>
+       <outline xmlUrl="https://feeds.libsyn.com/65267/rss" text="Lore"/>
+       <outline xmlUrl="https://omny.fm/shows/nothing-much-happens-bedtime-stories/playlists/podcast.rss" text="Nothing much happens: bedtime stories to help you sleep"/>
+       <outline xmlUrl="https://feeds.acast.com/public/shows/b6085bcd-3542-4a43-b6a8-021e3fd251b8" text="The Magnus Archives"/>
+     </outline>
+     <outline text="Society &amp; Culture">
+       <outline xmlUrl="https://publicfeeds.net/f/16857/are-we-doomed" text="Are We Doomed?"/>
+       <outline xmlUrl="https://feeds.megaphone.fm/LEME5757130197" text="Funny Cuz It's True with Elyse Myers"/>
+       <outline xmlUrl="https://rss.buzzsprout.com/2040953.rss" text="If Books Could Kill"/>
+       <outline xmlUrl="https://ffrancis-podtube-bucket.s3.us-east-2.amazonaws.com/UCsXVk37bltHxD1rDPwtNM8Q/UCsXVk37bltHxD1rDPwtNM8Q.xml" text="Kurzgesagt – In a Nutshell"/>
+       <outline xmlUrl="https://feeds.megaphone.fm/lateralcast" text="Lateral with Tom Scott"/>
+       <outline xmlUrl="https://rss.art19.com/think-twice-michael-jackson" text="OnlyFantasy"/>
+       <outline xmlUrl="https://www.thisamericanlife.org/podcast/rss.xml" text="This American Life"/>
+       <outline xmlUrl="https://www.whatsalanwatching.com/r/dac8fcb1?m=b8b5878e-684e-469a-bbf5-b40d87ca2ab5" text="TV Is Good"/>
+       <outline xmlUrl="https://feeds.acast.com/public/shows/69f8b83e3a143563ed7c9014" text="What to Carry, What to Burn"/>
+     </outline>
+     <outline text="Health &amp; Fitness">
+       <outline xmlUrl="https://boringbooksforbedtime.libsyn.com/rss" text="Boring Books for Bedtime Readings to Help You Sleep"/>
+       <outline xmlUrl="https://rss.buzzsprout.com/1411126.rss" text="Maintenance Phase"/>
+       <outline xmlUrl="https://omny.fm/shows/nothing-much-happens-bedtime-stories/playlists/podcast.rss" text="Nothing much happens: bedtime stories to help you sleep"/>
+       <outline xmlUrl="https://feeds.simplecast.com/AAvup9Zz" text="The School of Greatness"/>
+       <outline xmlUrl="https://anchor.fm/s/100d997ec/podcast/rss" text="Your World Within Podcast by Eddie Pinero"/>
+     </outline>
+   </body>
+ </opml>
