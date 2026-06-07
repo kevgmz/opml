@@ -1,0 +1,65 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <text>MIT Feeds</text>
+ </head>
+ <body>
+  <outline text="MIT Latest News" xmlUrl="https://news.mit.edu/rss/feed"/>
+  <outline xmlUrl="https://news.mit.edu/rss/research" text="MIT Research News"/>
+  <outline xmlUrl="https://news.mit.edu/rss/campus" text="MIT Campus News"/>
+  <outline xmlUrl="https://news.mit.edu/rss/school/architecture-and-planning" text="MIT School of Architecture + Planning"/>
+  <outline xmlUrl="https://news.mit.edu/rss/school/engineering" text="MIT School of Engineering"/>
+  <outline xmlUrl="https://news.mit.edu/rss/school/humanities-arts-and-social-sciences" text="MIT School of Humanities, Arts, and Social Sciences"/>
+  <outline xmlUrl="https://news.mit.edu/rss/school/management" text="MIT Sloan School of Management"/>
+  <outline xmlUrl="https://news.mit.edu/rss/school/science" text="MIT School of Science"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/aeronautics" text="MIT Aeronautics"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/anthropology" text="MIT Anthropology"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/architecture" text="MIT Architecture"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/biological-engineering-and-biotechnology" text="MIT Biological engineering and biotechnology"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/biology-and-genetics" text="MIT Biology and genetics"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/neuroscience-neurology-and-cognitive-sciences" text="MIT Neuroscience, neurology, and cognitive sciences"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/business" text="MIT Business and management"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/cancer-research" text="MIT Cancer research"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/chemistry" text="MIT Chemistry"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/chemical-engineering" text="MIT Chemical engineering"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/civil-engineering" text="MIT Civil and environmental engineering"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/climate-change-and-sustainability" text="MIT Climate change and sustainability"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/comparative-media-studies" text="MIT Comparative media studies"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/data-management-and-statistics" text="MIT Data, data management, and statistics"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/electrical-engineering-and-computer-science" text="MIT Electrical engineering and computer science"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/earth-and-atmospheric-sciences" text="MIT Earth and atmospheric sciences"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/economics" text="MIT Economics"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/energy" text="MIT Energy"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/environment" text="MIT Environment"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/food-and-water-security" text="MIT Food and water security"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/health-sciences-and-technology" text="MIT Health sciences and technology"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/history" text="MIT History"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/humanities" text="MIT Humanities"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/innovation-entrepreneurship-ie" text="MIT Innovation and entrepreneurship"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/language-and-linguistics" text="MIT Language and linguistics"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/literature-writing-and-journalism" text="MIT Literature, writing, and journalism"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/maker-movement" text="MIT Making and the maker movement"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/materials-science-and-engineering" text="MIT Materials science and engineering"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/mathematics" text="MIT Mathematics"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/mechanical-engineering" text="MIT Mechanical engineering"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/media-lab" text="MIT Media Lab / media arts and sciences"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/music" text="MIT Music / music technology"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/nanotech" text="MIT Nanoscience and nanotechnology"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/nuclear-engineering" text="MIT Nuclear science and engineering"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/oceans" text="MIT Oceanography and ocean engineering"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/philosophy" text="MIT Philosophy"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/physics" text="MIT Physics"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/political-science" text="MIT Political science"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/poverty-research-and-alleviation" text="MIT Poverty research and alleviation"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/real-estate" text="MIT Real estate"/>
+  <outline xmlUrl="https://news.mit.edu/topic/mitrobotics-rss.xml" text="MIT Robotics"/>
+  <outline xmlUrl="https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml" text="MIT Artificial intelligence"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/security-studies" text="MIT Security studies and military"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/social-sciences" text="MIT Social sciences"/>
+  <outline xmlUrl="https://news.mit.edu/topic/mitspace-rss.xml" text="MIT Space, astronomy and planetary science"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/science-technology-and-society" text="MIT Science, technology, and society"/>
+  <outline xmlUrl="https://news.mit.edu/rss/topic/urban-studies" text="MIT Urban studies and planning"/>
+ </body>
+</opml>
+```
