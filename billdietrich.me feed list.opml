@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <text/>
+ </head>
+ <body>
+  <outline text="Non-Tech Audio Feeds">
+   <outline xmlUrl="https://feeds.99percentinvisible.org/99percentinvisible" text="99% Invisible"/>
+   <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f4e26994-3ddb-4ec7-b855-ae32006cd5de/ea4fae0c-3282-4cfd-b315-ae32006cd5ec/podcast.rss" text="Against the Rules with Michael Lewis"/>
+   <outline xmlUrl="https://feeds.npr.org/2/rss.xml" text="All Things Considered : NPR"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/slatesamicuswithdahlialithwick" text="Amicus"/>
+   <outline xmlUrl="https://answermethispodcast.com/feed/" text="Answer Me This!"/>
+   <outline xmlUrl="https://www.thenakedscientists.com/rss/ask_the_naked_scientists.xml" text="Ask the Naked Scientists"/>
+   <outline xmlUrl="https://audioboom.com/channels/4987698.rss" text="BackStory"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/b036f7w2.rss" text="BBC Inside Science"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p02nrtvg.rss" text="Best of Today"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p002vsxs.rss" text="Business Daily"/>
+   <outline xmlUrl="https://feeds.feedburner.com/blindspot-road-911" text="Blindspot: The Road to 9/11"/>
+   <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/podcast.rss" text="Cautionary Tales with Tim Harford"/>
+   <outline xmlUrl="https://www.abc.net.au/radio/programs/conversations/feed/7711104/podcast.xml" text="Conversations"/>
+   <outline xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense?format=xml" text="Common Sense with Dan Carlin"/>
+   <outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:306534325/sounds.rss" text="Connected &amp; Disaffected"/>
+   <outline xmlUrl="https://feeds.simplecast.com/ASAdCBih" text="Crash Course: The Universe"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p04d42rc.rss" text="CrowdScience"/>
+   <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/F5D5FAC6-77BE-47E6-9AEE-AE32006CD8C3/B26CBBEB-86EB-4B97-9B34-AE32006CD8D6/podcast.rss" text="Daniel and Kelly’s Extraordinary Universe"/>
+   <outline xmlUrl="https://feeds.simplecast.com/9YNI3WaL" text="Dear Hank &amp; John"/>
+   <outline xmlUrl="https://feeds.libsyn.com/171941/rss" text="Delete This!"/>
+   <outline xmlUrl="https://sive.rs/podcast.rss" text="Derek Sivers"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p002w557.rss" text="Discovery"/>
+   <outline xmlUrl="https://feed.podbean.com/undarkpodcast/feed.xml" text="Entanglements"/>
+   <outline xmlUrl="https://anchor.fm/s/15776e14/podcast/rss" text="Every Little Thing"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/theweeds" text="Explain It to Me"/>
+   <outline xmlUrl="https://rss.art19.com/factually--with-adam-conover" text="Factually! with Adam Conover"/>
+   <outline xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/14a43378-edb2-49be-8511-ab0d000a7030/d1b9612f-bb1b-4b85-9c0c-ab0d004ab37a/podcast.rss" text="Freakonomics Radio"/>
+   <outline xmlUrl="https://feeds.npr.org/381444908/podcast.xml" text="Fresh Air"/>
+   <outline xmlUrl="http://feeds.feedburner.com/FrontlineAudiocastPbs" text="FRONTLINE"/>
+   <outline xmlUrl="http://geologicpodcast.com/rss" text="Geologic Podcast"/>
+   <outline xmlUrl="https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml" text="Guardian's Audio Long Read"/>
+   <outline xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/d2c4e775-99ce-4c17-b04c-ac380133d68c/2c6993d0-eac8-4252-8c4e-ac380133d69a/podcast.rss" text="Hidden Brain"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/SLT1859464427" text="How To!"/>
+   <outline xmlUrl="https://rss.art19.com/humans" text="Humans"/>
+   <outline xmlUrl="https://feed.hyperfixedpod.com/" text="Hyperfixed"/>
+   <outline xmlUrl="https://www.cbc.ca/podcasting/includes/ideas.xml" text="Ideas"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p01gyd7j.rss" text="In Our Time: Science"/>
+   <outline xmlUrl="https://itrhpodcast.libsyn.com/rss" text="In The Rabbit Hole Urban Survival"/>
+   <outline xmlUrl="http://feeds.feedburner.com/inkredulous" text="InKredulous"/>
+   <outline xmlUrl="https://rss.art19.com/intelligence-matters" text="Intelligence Matters"/>
+   <outline xmlUrl="https://rss.acast.com/intelligencesquared" text="Intelligence Squared"/>
+   <outline xmlUrl="https://feeds.acast.com/public/shows/f5b64019-68c3-57d4-b70b-043e63e5cbf6" text="Intercepted with Jeremy Scahill"/>
+   <outline xmlUrl="https://feeds.mozilla-podcasts.org/irl" text="IRL - Online Life Is Real Life"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/landofthegiants" text="Land of the Giants"/>
+   <outline xmlUrl="https://lexfridman.com/feed/podcast/" text="Lex Fridman"/>
+   <outline xmlUrl="https://feeds.publicradio.org/public_feeds/marketplace-tech/rss/rss.rss" text="Marketplace Tech"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p02nrss1.rss" text="More or Less: Behind the Stats"/>
+   <outline xmlUrl="http://rss.acast.com/nature" text="Nature Podcast"/>
+   <outline xmlUrl="https://feeds.transistor.fm/never-post" text="Never Post"/>
+   <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/70949531-8ccc-49f3-8774-b31400f5a6de/82e119be-e7b2-48cf-9b1f-b31400f5a6f8/podcast.rss" text="No Such Thing"/>
+   <outline xmlUrl="http://feeds.wnyc.org/notetoself-podcast" text="Note To Self"/>
+   <outline xmlUrl="https://www.abc.net.au/radionational/feed/2883682/podcast.xml" text="Ockham's Razor - ABC RN"/>
+   <outline xmlUrl="https://feeds.simplecast.com/fQ3mywpV" text="Offline with Jon Favreau"/>
+   <outline xmlUrl="http://feeds.wnyc.org/onthemedia" text="On the Media"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/VMP1684715893" text="On with Kara Swisher"/>
+   <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/3330cb46-e122-4797-bc0c-ae32006cd1f8/bcfb0fa6-e85d-4c5f-a52f-ae32006cd206/podcast.rss" text="Part-Time Genius"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/pivot" text="Pivot"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/plain-english" text="Plain English with Derek Thompson"/>
+   <outline xmlUrl="https://feeds.npr.org/510289/podcast.xml" text="Planet Money"/>
+   <outline xmlUrl="https://feeds.simplecast.com/dxZsm5kX" text="Pod Save America"/>
+   <outline xmlUrl="https://feeds.simplecast.com/AeLYwXNc" text="Pod Save the World"/>
+   <outline xmlUrl="https://www.thenakedscientists.com/rss/question_of_the_week_podcast.xml" text="Question of Week, Naked Scientists"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/radioatlantic" text="Radio Atlantic"/>
+   <outline xmlUrl="http://feeds.wnyc.org/radiolab" text="Radiolab"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/recodedecode" text="Recode Decode"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/replyall" text="Reply All"/>
+   <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/podcast.rss" text="Revisionist History"/>
+   <outline xmlUrl="https://wakingup.libsyn.com/rss" text="Sam Harris"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p002vsnb.rss" text="Science in Action"/>
+   <outline xmlUrl="https://rss.dw.com/xml/podcast_science_unscripted" text="Science Unscripted"/>
+   <outline xmlUrl="https://www.theguardian.com/science/series/science/podcast.xml" text="Science Weekly"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/sciencevs" text="Science Vs"/>
+   <outline xmlUrl="https://www.scientificamerican.com/sciam/xml/iTunes.cfm?id=science-talk" text="Scientific American Podcast: Science Talk"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/search-engine" text="Search Engine"/>
+   <outline xmlUrl="https://www.theskepticsguide.org/podcasts/feed" text="Skeptics Guide to the Universe"/>
+   <outline xmlUrl="https://www.merseysideskeptics.org.uk/podcasts/skeptics-with-a-k/feed.xml" text="Skeptics with a K"/>
+   <outline xmlUrl="https://skeptoid.com/podcast.xml" text="Skeptoid"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/slatemoney" text="Slate Money"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/VMP6677258445" text="Solutions with Henry Blodget"/>
+   <outline xmlUrl="https://img.apmcdn.org/28942b1bf89fc2b330da8d43a31cf5e7de726a62/uncropped/a53f2c-20210901-spectacular-failures-apm-studios-podcast-art-2000.jpg" text="Spectacular Failures"/>
+   <outline xmlUrl="https://www.spreaker.com/show/4530061/episodes/feed" text="Talk Nerdy with Cara Santa Maria"/>
+   <outline xmlUrl="https://feeds.feedburner.com/tedtalks_audio" text="TED Talks"/>
+   <outline xmlUrl="https://feeds.feedburner.com/TEDxSHORTS" text="TEDx SHORTS"/>
+   <outline xmlUrl="https://feeds.simplecast.com/p7S4nr_h" text="The Anthropocene Reviewed"/>
+   <outline xmlUrl="https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607" text="The Bugle"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/m001324r.rss" text="The Coming Storm"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p02nq0lx.rss" text="The Documentary Podcast"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p035w97h.rss" text="The Compass"/>
+   <outline xmlUrl="https://www.cbc.ca/podcasting/includes/thedose.xml" text="The Dose"/>
+   <outline xmlUrl="https://feeds.simplecast.com/ob9OSBIN" text="The Economics of Everyday Things"/>
+   <outline xmlUrl="https://feeds.simplecast.com/82FI35Px" text="The Ezra Klein Show"/>
+   <outline xmlUrl="https://api.quantamagazine.org/feed/the-joy-of-why" text="The Joy of Why"/>
+   <outline xmlUrl="https://www.thenakedscientists.com/naked_scientists_podcast.xml" text="The Naked Scientists"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/WWO6655869236" text="The Prof G Pod"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/GBLL9435201326" text="The Real Eisman Playbook"/>
+   <outline xmlUrl="https://www.abc.net.au/radionational/feed/2885480/podcast.xml" text="The Science Show - ABC RN"/>
+   <outline xmlUrl="https://sharedsecurity.net/feed/podcast/" text="The Shared Security Show"/>
+   <outline xmlUrl="https://feeds.simplecast.com/XA_851k3" text="The Stack Overflow Podcast"/>
+   <outline xmlUrl="https://anchor.fm/s/3cbbb3b8/podcast/rss" text="The WAN Show"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/m0011cpr.rss" text="Things Fell Apart"/>
+   <outline xmlUrl="http://feed.thisamericanlife.org/talpodcast" text="This American Life"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/NSR9016694791" text="Triforce!"/>
+   <outline xmlUrl="https://www.volts.wtf/feed" text="Volts (David Roberts)"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/whatnext" text="What Next"/>
+   <outline xmlUrl="https://omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/32C25E85-1667-4ACB-99FD-AE3C0021F33E/BEACEF48-19D2-4F52-B9E8-AE3C0021F347/podcast.rss" text="What's Your Problem?"/>
+   <outline xmlUrl="https://www.cbc.ca/podcasting/includes/whitecoat.xml" text="White Coat, Black Art"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/wyptb" text="Why'd You Push That Button?"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p004t1hd.rss" text="Witness History"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/w13xtvs0.rss" text="World Of Secrets"/>
+   <outline xmlUrl="https://feeds.buzzsprout.com/1112270.rss" text="You're Wrong About"/>
+  </outline>
+  <outline text="Tech Audio Feeds">
+   <outline xmlUrl="https://rss.buzzsprout.com/1852562.rss" text="2GT"/>
+   <outline xmlUrl="https://2.5admins.com/feed/podcast" text="2.5 Admins"/>
+   <outline xmlUrl="https://anchor.fm/s/c754aaac/podcast/rss" text="404 Security Not Found"/>
+   <outline xmlUrl="https://feeds.transistor.fm/80000-hours-podcast" text="80,000 Hours"/>
+   <outline xmlUrl="https://feeds.captivate.fm/aboard/" text="Aboard"/>
+   <outline xmlUrl="https://cdn.atp.fm/rss/public?uzv0zs1i" text="Accidental Tech"/>
+   <outline xmlUrl="https://feeds.feedburner.com/TheAdminAdminPodcast" text="Admin Admin Podcast"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/CNE9787140026" text="Ars Technicast"/>
+   <outline xmlUrl="https://feeds.captivate.fm/android-bytes-by-esper/" text="Android Bytes (Esper)"/>
+   <outline xmlUrl="https://feeds.fireside.fm/asknoah/rss" text="Ask Noah Show"/>
+   <outline xmlUrl="https://askthehosts.com/feed/podcast" text="Ask The Hosts"/>
+   <outline xmlUrl="https://www.badvoltage.org/feed/mp3/" text="Bad Voltage"/>
+   <outline xmlUrl="https://feeds.feedburner.com/BeersWithTalosPodcast" text="Beers with Talos Podcast"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/caveat" text="Caveat"/>
+   <outline xmlUrl="https://feeds.fireside.fm/chooselinux/rss" text="Choose Linux"/>
+   <outline xmlUrl="https://publicfeeds.net/f/8376/clickhere" text="Click Here"/>
+   <outline xmlUrl="https://closednetwork.io/feed/podcast/" text="Closed Network Privacy Podcast"/>
+   <outline xmlUrl="https://coalcast.libsyn.com/rss" text="CoalCast"/>
+   <outline xmlUrl="https://feeds.fireside.fm/coder/rss" text="Coder Radio"/>
+   <outline xmlUrl="https://www.spreaker.com/show/4956890/episodes/feed" text="Check Point Research"/>
+   <outline xmlUrl="https://media.rss.com/ctbbpodcast/feed.xml" text="Critical Thinking - Bug Bounty"/>
+   <outline xmlUrl="https://cubiclenate.com/feed/podcast/" text="CubicleNate / Linux Saloon"/>
+   <outline xmlUrl="https://cubiclenate.com/feed/podcast/" text="CubicleNate Noodlings"/>
+   <outline xmlUrl="https://rss.acast.com/cyber" text="CYBER"/>
+   <outline xmlUrl="https://cybersecuritysauna.libsyn.com/rss" text="Cyber Security Sauna"/>
+   <outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:49285879/sounds.rss" text="Cybercrime Investigations"/>
+   <outline xmlUrl="https://feeds.fireside.fm/dgshow/rss" text="Dave &amp; Gunnar Show"/>
+   <outline xmlUrl="https://anchor.fm/s/a121a24/podcast/rss" text="Day[0]"/>
+   <outline xmlUrl="https://defenseindepth.libsyn.com/rss" text="Defense in Depth"/>
+   <outline xmlUrl="https://defensivesecurity.org/feed/podcast" text="Defensive Security"/>
+   <outline xmlUrl="https://feeds.fireside.fm/destinationlinux/rss" text="Destination Linux"/>
+   <outline xmlUrl="https://rss.buzzsprout.com/2445401.rss" text="DISCARDED Proofpoint"/>
+   <outline xmlUrl="https://rss.buzzsprout.com/2153215.rss" text="Down the Security Rabbithole Podcast"/>
+   <outline xmlUrl="https://feeds.fireside.fm/fedoraproject/rss" text="Fedora Project"/>
+   <outline xmlUrl="https://podcast.firewallsdontstopdragons.com/feed/podcast/" text="Firewalls Don't Stop Dragons (no VPN)"/>
+   <outline xmlUrl="https://geekspeak.org/episodes/rss.xml" text="Geek Speak with Lyle Troxell"/>
+   <outline xmlUrl="https://www.omnycontent.com/d/playlist/6d1b1a1a-28ad-418a-8626-a89a000a9890/726fe721-7095-4486-834a-a9d5017e66a3/6d1bf6ae-2fdf-4358-9139-a9d5017e66a3/podcast.rss" text="GeekWire"/>
+   <outline xmlUrl="http://gnuworldorder.info/ogg.xml" text="GNU World Order Linux Cast"/>
+   <outline xmlUrl="https://rss.art19.com/grumpy-old-geeks-podcast" text="Grumpy Old Geeks"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/hackedpodcast" text="Hacked"/>
+   <outline xmlUrl="https://hackerpublicradio.org/hpr_total_rss.php" text="Hacker Public Radio"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/hacking-humans" text="Hacking Humans"/>
+   <outline xmlUrl="https://feeds.simplecast.com/l2i9YnTd" text="Hard Fork"/>
+   <outline xmlUrl="https://feeds.packetpushers.net/PacketPushersWeeklyPodcast" text="Heavy Networking from Packet Pushers"/>
+   <outline xmlUrl="https://hybridcloudshow.com/feed/podcast" text="Hybrid Cloud Show"/>
+   <outline xmlUrl="https://feeds.yellowball.fm/UeJhwB" text="In the Shell"/>
+   <outline xmlUrl="https://feeds.fireside.fm/extras/rss" text="Jupiter Extras"/>
+   <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6e0008d8-6226-4a07-8232-ae2e01547189/e3ded945-4db8-41cd-aeda-ae2e01547197/podcast.rss" text="kill switch"/>
+   <outline xmlUrl="https://latenightlinux.com/feed/mp3" text="Late Night Linux"/>
+   <outline xmlUrl="https://latenightlinux.com/feed/extra" text="Late Night Linux Extra"/>
+   <outline xmlUrl="https://anchor.fm/s/1210f5d8/podcast/rss" text="Layer 8 Podcast"/>
+   <outline xmlUrl="https://linuxafterdark.net/feed/podcast" text="Linux After Dark"/>
+   <outline xmlUrl="https://linuxactionnews.com/rss" text="Linux Action News"/>
+   <outline xmlUrl="https://feeds.feedburner.com/linuxfortherestofus" text="Linux For The Rest Of Us"/>
+   <outline xmlUrl="https://linuxlads.com/feed_mp3.rss" text="Linux Lads"/>
+   <outline xmlUrl="https://linuxmatters.sh/episode/index.xml" text="Linux Matters"/>
+   <outline xmlUrl="https://feeds.fireside.fm/dlnxtend/rss" text="Linux Out Loud"/>
+   <outline xmlUrl="https://podcast.james.network/@linuxprepper/feed.xml" text="Linux Prepper"/>
+   <outline xmlUrl="https://linuxunplugged.com/rss" text="LINUX Unplugged"/>
+   <outline xmlUrl="https://feeds.fireside.fm/linuxuserspace/rss" text="Linux User Space"/>
+   <outline xmlUrl="https://anchor.fm/s/57fec20/podcast/rss" text="LinuxServer.io"/>
+   <outline xmlUrl="https://www.malwarebytes.com/blog/category/podcast" text="Lock and Code"/>
+   <outline xmlUrl="https://api.quantamagazine.org/feed/the-joy-of-x" text="The Joy of x"/>
+   <outline xmlUrl="https://malicious.life/feed/podcast/" text="Malicious Life"/>
+   <outline xmlUrl="https://mintcast.org/category/mp3/feed/" text="MintCast"/>
+   <outline xmlUrl="https://www.spreaker.com/show/6019906/episodes/feed" text="Molly White's Citation Needed"/>
+   <outline xmlUrl="https://feeds.podtrac.com/sXqBmsxMrHix" text="Naked Security Podcast"/>
+   <outline xmlUrl="https://feeds.fireside.fm/office/rss" text="Office Hours"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/only-malware-in-the-building" text="Only Malware in the Building"/>
+   <outline xmlUrl="https://opensourcesecuritypodcast.libsyn.com/rss" text="Open Source Security Podcast"/>
+   <outline xmlUrl="https://optoutpod.com/index.xml" text="Opt Out"/>
+   <outline xmlUrl="https://media.rss.com/osint/feed.xml" text="OSINT"/>
+   <outline xmlUrl="https://carriekerskie.libsyn.com/rss" text="Privacy Mentor with Carrie Kerskie"/>
+   <outline xmlUrl="https://anchor.fm/s/281e0a14/podcast/rss" text="Rebooting with Lisa Forte"/>
+   <outline xmlUrl="https://www.spreaker.com/show/3170008/episodes/feed" text="Redefining Energy"/>
+   <outline xmlUrl="https://feeds.buzzsprout.com/1666240.rss" text="Rent, Buy, Build - Cloud Native Platforms"/>
+   <outline xmlUrl="https://risky.biz/feeds/risky-business/" text="Risky Business"/>
+   <outline xmlUrl="https://risky.biz/feeds/risky-business-features/" text="Risky Business Features"/>
+   <outline xmlUrl="https://safing.io/podcast.xml" text="Safing - Portmaster"/>
+   <outline xmlUrl="https://anchor.fm/s/16ffbfac/podcast/rss" text="Security Headlines"/>
+   <outline xmlUrl="https://anchor.fm/s/5625bc4/podcast/rss" text="Security Sandbox"/>
+   <outline xmlUrl="https://feeds.buzzsprout.com/1656988.rss" text="Security Unfiltered"/>
+   <outline xmlUrl="https://feeds.fireside.fm/selfhosted/rss" text="Self-Hosted"/>
+   <outline xmlUrl="https://www.billdietrich.me/rssfeed-smashing-security.xml" text="Smashing Security"/>
+   <outline xmlUrl="https://feeds.fireside.fm/sudoshow/rss" text="Sudo Show"/>
+   <outline xmlUrl="https://feeds.acast.com/public/shows/65e15188b8456c00169f4864" text="Surveillance Report"/>
+   <outline xmlUrl="https://feeds.buzzsprout.com/2425400.rss" text="System Crash"/>
+   <outline xmlUrl="https://techlore.tech/" text="Techlore.tech"/>
+   <outline xmlUrl="https://feeds.fireside.fm/techtalk/rss" text="Tech Talk Today"/>
+   <outline xmlUrl="https://podcasts.files.bbci.co.uk/p01plr2p.rss" text="Tech Tent"/>
+   <outline xmlUrl="https://www.techsequences.org/podcasts/feed/" text="TechSequences"/>
+   <outline xmlUrl="https://techsnap.systems/rss" text="TechSNAP"/>
+   <outline xmlUrl="https://redcircle.com/shows/6c608b0c-5983-4e63-8ca8-843f5b2d22f9" text="The AI Fix"/>
+   <outline xmlUrl="https://askleo.com/feed/podcast/" text="The Ask Leo! Podcast"/>
+   <outline xmlUrl="https://thebinarytimes.net/rss-mp3.xml" text="The Binary Times"/>
+   <outline xmlUrl="https://anchor.fm/s/ee16c1c/podcast/rss" text="The Bug Bounty Podcast"/>
+   <outline xmlUrl="https://anchor.fm/s/a14c29c/podcast/rss" text="The Code Review"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/cyberwire-daily-podcast" text="The CyberWire"/>
+   <outline xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:529841220/sounds.rss" text="The Daily Swig"/>
+   <outline xmlUrl="https://downtimeproject.com/feed/podcast" text="The Downtime Project"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/faikfiles" text="The FAIK Files"/>
+   <outline xmlUrl="https://rule11.tech/category/hedge/feed/" text="The Hedge"/>
+   <outline xmlUrl="https://www.bassi.io/category/history/podcast.xml" text="The History of GNOME"/>
+   <outline xmlUrl="https://thehomelab.show/feed/podcast" text="The Homelab Show"/>
+   <outline xmlUrl="https://feeds.megaphone.fm/thelastinvention" text="The Last Invention"/>
+   <outline xmlUrl="https://anchor.fm/s/a5967a8/podcast/rss" text="The Linux Cast"/>
+   <outline xmlUrl="https://themanyhats.club/" text="The Many Hats Club"/>
+   <outline xmlUrl="https://feeds.fireside.fm/mdominick/rss" text="The Mike Dominick Show"/>
+   <outline xmlUrl="https://theneuron.ai/podcast" text="The Neuron: AI Explained"/>
+   <outline xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss" text="The Privacy, Security, &amp; OSINT Show"/>
+   <outline xmlUrl="https://www.theregister.com/headlines.atom" text="The Register Kettle"/>
+   <outline xmlUrl="https://sharedsecurity.net/feed/podcast/" text="The Shared Security Show"/>
+   <outline xmlUrl="https://www.techradar.com/rss/news/software" text="TechRadar - Software"/>
+   <outline xmlUrl="https://teknikaldomain.me/feed.xml" text="Teknikal's_Domain"/>
+   <outline xmlUrl="https://shkspr.mobi/blog/feed/" text="Terence Eden"/>
+   <outline xmlUrl="https://www.thatprivacyguy.com/blog/feed.xml" text="That Privacy Guy"/>
+   <outline xmlUrl="https://thatshubham.com/rss/" text="thatshubham"/>
+   <outline xmlUrl="https://www.thealgorithmicbridge.com/feed" text="The Algorithmic Bridge"/>
+   <outline xmlUrl="https://www.autodidacts.io/rss/" text="The Autodidacts"/>
+   <outline xmlUrl="http://boston.conman.org/bostondiaries.rss" text="The Boston Diaries"/>
+   <outline xmlUrl="https://catfox.life/feed/" text="The Cat Fox Life"/>
+   <outline xmlUrl="https://changelog.complete.org/feed/" text="The Changelog"/>
+   <outline xmlUrl="https://blog.cloudflare.com/rss/" text="The Cloudflare Blog"/>
+   <outline xmlUrl="https://www.lilysthings.org/blog/rss/" text="The Cool Blog"/>
+   <outline xmlUrl="https://thedfirreport.com/feed/" text="The DFIR Report"/>
+   <outline xmlUrl="https://theevilskeleton.gitlab.io/feed.xml" text="The Evil Skeleton"/>
+   <outline xmlUrl="https://thejollyteapot.com/feed.rss" text="The Jolly Teapot"/>
+   <outline xmlUrl="https://thelinuxcast.org/feed/feed.xml" text="The Linux Cast"/>
+   <outline xmlUrl="https://thelinuxexp.com/feed.xml" text="The Linux Experiment"/>
+   <outline xmlUrl="https://logicgrimoire.wordpress.com/feed/" text="the logic grimoire"/>
+   <outline xmlUrl="https://themarkup.org/feeds/rss.xml" text="The Markup"/>
+   <outline xmlUrl="https://mullvad.net/en/blog/feed/rss/" text="The Mullvad Blog"/>
+   <outline xmlUrl="https://ghost.thenewoil.org/rss/" text="The New Oil"/>
+   <outline xmlUrl="https://thenewstack.io/blog/feed/" text="The New Stack"/>
+   <outline xmlUrl="https://devblogs.microsoft.com/oldnewthing/feed" text="The Old New Thing"/>
+   <outline xmlUrl="https://strugglers.net/~andy/blog/feed/" text="The ongoing struggle"/>
+   <outline xmlUrl="https://theorangeone.net/index.xml" text="The Orange One"/>
+   <outline xmlUrl="https://blog.pragmaticengineer.com/rss/" text="The Pragmatic Engineer"/>
+   <outline xmlUrl="https://theprivacydad.com/feed/?type=rss" text="The Privacy Dad"/>
+   <outline xmlUrl="https://www.theregister.com/headlines.atom" text="The Register"/>
+   <outline xmlUrl="https://thesloth.me/index.xml" text="The Sloth Blog"/>
+   <outline xmlUrl="https://blog.thunderbird.net/feed/" text="The Thunderbird Blog"/>
+   <outline xmlUrl="https://blog.plover.com/index.rss2" text="The Universe of Discourse"/>
+   <outline xmlUrl="https://thevaluable.dev/index.xml" text="The Valuable Dev"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCylGUf9BvQooEFjgdNudoQg" text="The Linux Cast"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKGe7fZ_S788Jaspxg-_5Sg" text="The PC Security Channel"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbRP3c757lWg9M-U7TyEkXA" text="Theo"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ" text="ThioJoe"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5U7mHlhP6s6478wd7ZvnhA" text="Trafotin"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYlMGSxDy8fCQGXesK64aEg" text="YouTux"/>
+  </outline>
+  <outline text="Tech Video Feeds">
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0m81bQuthaQZmFbXEY9QSw" text="AICodeKing"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw" text="AI Explained"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvFGf8HZGZWFzpcDCqb3Lhw" text="All Things Secured"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1LpsuAUaKoMzzJSEt5WImw" text="Asianometry"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCes1l5f4ss6eQEl9oM3qRbg" text="Ask Your Computer Guy"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwHwDuNd9lCdA7chyyquDXw" text="Bread on Penguins"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA" text="Brodie Robertson"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgMkttSabtyFF4PWDIoimHw" text="Business Reform"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmGcm7dhEjS9CIOsOOv8y6w" text="Cameron Knauff"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ" text="Computerphile"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVS6ejD9NLZvjsvhcbiDzjw" text="Crosstalk Solutions"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg" text="DistroTube"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCX_WM2O-X96URC5n66G-hvw" text="EF - Linux Made Simple"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbiGcwDWZjz05njNPrJU7jA" text="Explaining Computers"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" text="Fireship"/>
+   <outline xmlUrl="https://peertube.linuxrocks.online/feeds/videos.xml?videoChannelId=1921" text="Ghast (Linux)"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJXa3_WNNmIpewOtCHf3B0g" text="LaurieWired"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA" text="Learn Linux TV"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw" text="Linus Tech Tips"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjoNsHD6hXxCNiisSZjdlLA" text="Liron Segev"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg" text="Low Level Learning"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA" text="Luke Smith"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1s1OsWNYDFgbROPV-q5arg" text="Michael Horn"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSuHzQ3GrHSzoBbwrIq3LLA" text="Naomi Brockwell: NBTV"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ" text="NetworkChuck"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-ufRLYrXxrIEApGn9VG5pQ" text="Reject Convenience"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3yaWWA9FF9OBog5U9ml68A" text="SavvyNik"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCij1VEjDb88RCbqsvZ1gqaw" text="Side Of Burritos"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoryWpk4QVYKFCJul9KBdyw" text="Switched to Linux"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w" text="TechHut"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA" text="TechLinked"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0vBXGSyV14uvJ4hECDOl0Q" text="Techquickie"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVSHXNNBitaPd5lYz48--yg" text="Tech Ingredients"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCylGUf9BvQooEFjgdNudoQg" text="The Linux Cast"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbRP3c757lWg9M-U7TyEkXA" text="Theo"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ" text="ThioJoe"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5U7mHlhP6s6478wd7ZvnhA" text="Trafotin"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYlMGSxDy8fCQGXesK64aEg" text="YouTux"/>
+  </outline>
+  <outline text="Learn Spanish Video Feeds">
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLYbIV2b6mrST2fuV1viXnA" text="7 Minute Spanish"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9yudInUYzMh9H4gJs4DrHg" text="Butterfly Spanish"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCouyFdE9-Lrjo3M_2idKq1A" text="Dreaming Spanish"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCci5vozsm2-46a-WxIwjd5A" text="Real Fast Spanish"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiIYamB7A6qmft_R_45ibSA" text="Spanishacks"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLC64B03323C260A65" text="Spanish - Prof Jason Jolley"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWQytAtUgm_NdsujRrnHGOQ" text="Spanish With Liliana"/>
+   <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPb5icVxZvFpmORSjDKrrnw" text="Spanish With Qroo Paul"/>
+  </outline>
+ </body>
+</opml>
